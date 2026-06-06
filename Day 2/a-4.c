@@ -6,7 +6,7 @@ int main()
 
     scanf("%d", &n);
 
-    temp = n;
+    temp = n\
 
     while (n != 0)
     {
